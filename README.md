@@ -22,11 +22,17 @@ Reduced data dimensions using PCA down to three principal components.
 
  ![alt text](images/clustered_df_v3.png)
  
+ ### Elbow curve
+ ![alt text](images/elbow.png)
+ 
  ### hvplot.table() 
  ![alt text](images/tradable_crypto_table.png)
   
  ### clustered_df
  ![alt text](images/clustered_df_v4.png)
+ 
+ ### 3D Scatteplot using PCA data and clusters
+  ![alt text](images/3D.png)
  
 ### 2D-Scatter plot with clusters 
  ![alt text](images/scatterplot.png)
